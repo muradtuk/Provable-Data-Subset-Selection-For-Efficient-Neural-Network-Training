@@ -22,7 +22,6 @@ import copy
 import time
 from scipy import optimize
 from datetime import datetime
-from RegressionCoresets import computeSensitivity
 import AproxMVEE
 
 R = 10
