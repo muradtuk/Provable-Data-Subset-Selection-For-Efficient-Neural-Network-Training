@@ -17,14 +17,17 @@ In this repository, you will find our coreset construction code (tested with Pyt
 
 If you find this work helpful please cite us:
 
-    @article{tukan2023provable,
-    
-      title={Provable Data Subset Selection For Efficient Neural Network Training},
+   @inproceedings{tukan2023provable,
+      title={Provable data subset selection for efficient neural networks training},
       
       author={Tukan, Murad and Zhou, Samson and Maalouf, Alaa and Rus, Daniela and Braverman, Vladimir and Feldman, Dan},
       
-      journal={arXiv preprint arXiv:2303.05151},
+      booktitle={International Conference on Machine Learning},
       
-      year={2023}
+      pages={34533--34555},
+      
+      year={2023},
+      
+      organization={PMLR}
     }
 
